@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.4",
+          "buildVersion": "4",
+          "date": "2026-11-19T23:43:04Z",
+          "localizedDescription": "Экран миссии сам поднимает громкость до 100% и держит её, чтобы был слышен звук приложения.",
+          "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-4/Aliurm.ipa",
+          "size": 114474,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.3",
           "buildVersion": "3",
           "date": "2026-11-19T23:24:19Z",
@@ -24,10 +33,10 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "0.1.3",
-      "versionDate": "2026-11-19T23:24:19Z",
-      "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-3/Aliurm.ipa",
-      "size": 107473
+      "version": "0.1.4",
+      "versionDate": "2026-11-19T23:43:04Z",
+      "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-4/Aliurm.ipa",
+      "size": 114474
     }
   ],
   "news": []
