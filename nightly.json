@@ -3,6 +3,32 @@
   "identifier": "io.github.s0ya13.aliurm.nightly",
   "subtitle": "Тестовые сборки",
   "iconURL": "https://raw.githubusercontent.com/S0ya13/aliurm-releases/main/icon.png",
-  "apps": [],
+  "apps": [
+    {
+      "name": "Aliurm",
+      "bundleIdentifier": "app.rose7193.ursamajor6364",
+      "developerName": "S0ya13",
+      "subtitle": "Будильник с NFC-метками",
+      "localizedDescription": "Будильник, который выключается только обходом NFC-меток по квартире.",
+      "iconURL": "https://raw.githubusercontent.com/S0ya13/aliurm-releases/main/icon.png",
+      "tintColor": "#F0973F",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.1.3",
+          "buildVersion": "3",
+          "date": "2026-11-19T23:24:19Z",
+          "localizedDescription": "Проверка передачи звонка: «Стоп» и «Начать миссию» открывают экран миссии, приложение играет свой звук.",
+          "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-3/Aliurm.ipa",
+          "size": 107473,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "version": "0.1.3",
+      "versionDate": "2026-11-19T23:24:19Z",
+      "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-3/Aliurm.ipa",
+      "size": 107473
+    }
+  ],
   "news": []
 }
