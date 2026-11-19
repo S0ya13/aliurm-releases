@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.6",
+          "buildVersion": "6",
+          "date": "2026-11-19T23:55:54Z",
+          "localizedDescription": "Новая иконка приложения. Остальное как в 0.1.4: экран миссии поднимает громкость до 100%.",
+          "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-6/Aliurm.ipa",
+          "size": 287405,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.4",
           "buildVersion": "4",
           "date": "2026-11-19T23:43:04Z",
@@ -33,10 +42,10 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "0.1.4",
-      "versionDate": "2026-11-19T23:43:04Z",
-      "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-4/Aliurm.ipa",
-      "size": 114474
+      "version": "0.1.6",
+      "versionDate": "2026-11-19T23:55:54Z",
+      "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-6/Aliurm.ipa",
+      "size": 287405
     }
   ],
   "news": []
