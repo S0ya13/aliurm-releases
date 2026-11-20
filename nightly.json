@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.7",
+          "buildVersion": "7",
+          "date": "2026-11-20T00:06:20Z",
+          "localizedDescription": "Режим сна: выберите время подъёма и нажмите «Начать сон». Экран станет чёрным, утром звонит само приложение, AlarmKit остаётся запасным.",
+          "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-7/Aliurm.ipa",
+          "size": 306199,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.6",
           "buildVersion": "6",
           "date": "2026-11-19T23:55:54Z",
@@ -42,10 +51,10 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "0.1.6",
-      "versionDate": "2026-11-19T23:55:54Z",
-      "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-6/Aliurm.ipa",
-      "size": 287405
+      "version": "0.1.7",
+      "versionDate": "2026-11-20T00:06:20Z",
+      "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-7/Aliurm.ipa",
+      "size": 306199
     }
   ],
   "news": []
