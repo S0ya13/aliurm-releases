@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.8",
+          "buildVersion": "8",
+          "date": "2026-11-20T00:19:42Z",
+          "localizedDescription": "Журнал теперь пишет, идёт ли звук будильника и сколько секунд. Остальное как в 0.1.7 (режим сна).",
+          "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-8/Aliurm.ipa",
+          "size": 307882,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.7",
           "buildVersion": "7",
           "date": "2026-11-20T00:06:20Z",
@@ -51,10 +60,10 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "0.1.7",
-      "versionDate": "2026-11-20T00:06:20Z",
-      "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-7/Aliurm.ipa",
-      "size": 306199
+      "version": "0.1.8",
+      "versionDate": "2026-11-20T00:19:42Z",
+      "downloadURL": "https://github.com/S0ya13/aliurm-releases/releases/download/build-8/Aliurm.ipa",
+      "size": 307882
     }
   ],
   "news": []
